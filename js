@@ -1,0 +1,1 @@
+$(".hideFile").hide(2000)
